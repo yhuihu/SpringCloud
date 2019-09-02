@@ -9,10 +9,10 @@
         <relativePath>../spring-cloud-alibaba-dependencies/pom.xml</relativePath>
     </parent>
 
-    <artifactId>spring-cloud-alibaba-nacos-consumer</artifactId>
+    <artifactId>spring-cloud-alibaba-consumer</artifactId>
     <packaging>jar</packaging>
 
-    <name>spring-cloud-alibaba-nacos-consumer</name>
+    <name>spring-cloud-alibaba-consumer</name>
 
     <properties>
         <java.version>1.8</java.version>
